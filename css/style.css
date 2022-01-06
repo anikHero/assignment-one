@@ -1,0 +1,128 @@
+body{
+    font-family: 'Corinthia', ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.sec-1-heading{
+    color: black;
+    border-left: 4px solid #FF5959;
+    padding-left: 10px;
+}
+.coral{
+    color: coral;
+}
+.first-section h1{
+    font-size: 40px;
+    
+}
+.first-section{
+    width: 50%;
+    padding-left: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+section{
+    display: flex;
+    padding: 20px 60px;
+}
+.first-section img{
+    width: 50%;
+    padding-right: 20%;
+}
+.button{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: #ffffff;
+    padding: 15px 40px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px rgb(187, 185, 185);
+    display: inline-block;
+    font-weight: 500;
+    margin: 10px 0;
+    font-size: 16px;
+    border: none;
+}
+.my-mission-in-2022{
+    text-align: center;
+}
+.second-part h1{
+    text-align:left;
+}
+.second-1{
+    width: 25%;
+    float: left;
+    background-color:#db9494;
+    border-radius: 10%;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 3px 3px 15px rgb(187, 185, 185);
+}
+.illustrator{
+    width: 30%;
+    height: 20%;
+}
+.second-2{
+    width: 25%;
+    float: left;
+    background-color:#81b992;
+    border-radius: 10%;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 3px 3px 15px rgb(187, 185, 185);
+}
+.second-3{
+    width: 25%;
+    float: left;
+    background-color:#6592cc;
+    border-radius: 10%;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 3px 3px 15px rgb(187, 185, 185);
+}
+.third-part{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.third-part-img{
+    width: 30%;
+}
+.four-part{
+    width: 50%;
+    margin: 40px 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.four-part-img{
+    width: 30%;
+}
+.footer{
+    background-color: #0B0D17;
+    text-align: center;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position:fixed
+    left: 0;
+    bottom: 0;
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+.contact-me{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 5%;
+}
+.contact-me img{
+    width: 50%;
+}
